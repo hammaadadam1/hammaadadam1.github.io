@@ -14,7 +14,7 @@ I am a second year PhD student at the [Institute for Data Systems and Society (I
 
 I am currently interning at Microsoft Research New England, hosted by [Allison Koenecke](https://koenecke.infosci.cornell.edu/) and [Lester Mackey](https://web.stanford.edu/~lmackey/). Prior to starting my PhD at MIT, I earned a Bachelor's in Applied Mathematics at Yale and a Master's in Data Science at Columbia. I also spent two years working in strategy consulting at [Altman Vilandrie & Company](https://www.altmansolon.com/).
 
-Outside of work, I'm a huge sports fan, and spend a little too much time watching Liverpool FC and the Boston Celtics. I've also recently fallen in love with [curling](https://www.youtube.com/watch?v=Rsk30PQK8R0), a great way to get through the Boston winter.
+Outside of work, I'm a huge sports fan, and spend a little too much time watching Liverpool FC and the Boston Celtics. I've also recently fallen in love with [curling](https://www.youtube.com/watch?v=Rsk30PQK8R0), the perfect way to get through the Boston winter.
 
 <a name="pubs"></a>Publications
 ======
