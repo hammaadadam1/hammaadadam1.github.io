@@ -48,6 +48,6 @@ Hammaad Adam, <span style="color:gray">Rene Bermea, Leo Anthony Celi, Marzyeh Gh
 
 <a name="cv"></a>CV
 ======
-[Curriculum Vitae](/files/Resume_Hammaad_Adam_CV.pdf) (updated 7/4/2022)
+[Curriculum Vitae](/files/Resume_Hammaad_Adam_CV.pdf) (updated 9/26/2022)
 
 
