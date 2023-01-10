@@ -18,8 +18,19 @@ Outside of work, I'm a huge sports fan, and spend a little too much time watchin
 
 <a name="pubs"></a>Publications
 ======
+[Machine Learning for Demand Estimation in Long Tail Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3702093)  
+Accepted, <i>Management Science</i>  
+Hammaad Adam, <span style="color:gray">Pu He, Fanyin Zheng.</span>  
+<u>Talks</u>: Presented at INFORMS in [2021](files/presentation_informs2021_v2.mp4) and 2020
+
+[Mitigating the impact of biased artificial intelligence in emergency decision-making](https://www.nature.com/articles/s43856-022-00214-4)  
+<i>Communications Medicine, 2022</i>  
+Also presented at two NeurIPS 2022 workshops: <i>Trustworthy and Socially Responsible ML</i> and <i>Deploy and Monitor ML</i>
+Hammaad Adam, <span style="color:gray">Aparna Balagopalan, Emily Alsentzer, Fotini Christia, Marzyeh Ghassemi.</span>
+<b>Featured in [MIT News](https://news.mit.edu/2022/when-subtle-biases-ai-influence-emergency-decisions-1216).</b>
+
 [Write It Like You See It: Detectable Differences in Clinical Notes By Race Lead To Differential Model
-Recommendations](https://arxiv.org/abs/2205.03931)  
+Recommendations](https://dl.acm.org/doi/10.1145/3514094.3534203)  
 <i>AIES, 2022</i>  
 Hammaad Adam, <span style="color:gray">Ming Ying Yang, Kenrick Cato, Ioana Baldini, Charles Senteio, Leo Anthony Celi, Jiaming Zeng, Moninder Singh, Marzyeh Ghassemi.</span>  
 <u>Talk</u>: AIES Talk (forthcoming)  
@@ -32,15 +43,6 @@ learning](https://www.nature.com/articles/s41587-022-01307-0)
 
 <a name="inprep"></a>Working Papers
 ======
-<u>Just Following AI Orders: When Unbiased People Are Influenced By Biased AI</u>  
-Revise and resubmit, <i>Communications Medicine</i>  
-Hammaad Adam, <span style="color:gray">Aparna Balagopalan, Emily Alsentzer, Fotini Christia, Marzyeh Ghassemi.</span>
-
-[Machine Learning for Demand Estimation in Long Tail Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3702093)  
-Major revision, <i>Management Science</i>  
-Hammaad Adam, <span style="color:gray">Pu He, Fanyin Zheng.</span>  
-<u>Talks</u>: Presented at INFORMS in [2021](files/presentation_informs2021_v2.mp4) and 2020
-
 <u>Fair Organ Allocation Learning</u>  
 In preparation  
 Hammaad Adam, <span style="color:gray">Rene Bermea, Leo Anthony Celi, Marzyeh Ghassemi.</span>  
