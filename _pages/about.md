@@ -25,7 +25,7 @@ Hammaad Adam, <span style="color:gray">Pu He, Fanyin Zheng.</span>
 
 [Mitigating the impact of biased artificial intelligence in emergency decision-making](https://www.nature.com/articles/s43856-022-00214-4)  
 <i>Communications Medicine, 2022</i>  
-Also presented at two NeurIPS 2022 workshops: <i>Trustworthy and Socially Responsible ML</i> and <i>Deploy and Monitor ML</i>
+Also presented at two NeurIPS 2022 workshops: <i>Trustworthy and Socially Responsible ML</i> and <i>Deploy and Monitor ML</i>  
 Hammaad Adam, <span style="color:gray">Aparna Balagopalan, Emily Alsentzer, Fotini Christia, Marzyeh Ghassemi.</span>
 <b>Featured in [MIT News](https://news.mit.edu/2022/when-subtle-biases-ai-influence-emergency-decisions-1216).</b>
 
