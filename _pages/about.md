@@ -26,14 +26,13 @@ Hammaad Adam, <span style="color:gray">Pu He, Fanyin Zheng.</span>
 [Mitigating the impact of biased artificial intelligence in emergency decision-making](https://www.nature.com/articles/s43856-022-00214-4)  
 <i>Communications Medicine, 2022</i>  
 Also presented at two NeurIPS 2022 workshops: <i>Trustworthy and Socially Responsible ML</i> and <i>Deploy and Monitor ML</i>  
-Hammaad Adam, <span style="color:gray">Aparna Balagopalan, Emily Alsentzer, Fotini Christia, Marzyeh Ghassemi.</span>
+Hammaad Adam, <span style="color:gray">Aparna Balagopalan, Emily Alsentzer, Fotini Christia, Marzyeh Ghassemi.</span>  
 <b>Featured in [MIT News](https://news.mit.edu/2022/when-subtle-biases-ai-influence-emergency-decisions-1216).</b>
 
 [Write It Like You See It: Detectable Differences in Clinical Notes By Race Lead To Differential Model
 Recommendations](https://dl.acm.org/doi/10.1145/3514094.3534203)  
 <i>AIES, 2022</i>  
 Hammaad Adam, <span style="color:gray">Ming Ying Yang, Kenrick Cato, Ioana Baldini, Charles Senteio, Leo Anthony Celi, Jiaming Zeng, Moninder Singh, Marzyeh Ghassemi.</span>  
-<u>Talk</u>: AIES Talk (forthcoming)  
 <b>Featured in [STAT](https://www.statnews.com/2022/06/28/health-algorithms-racial-bias-redacting/) and [MIT News](https://news.mit.edu/2022/artificial-intelligence-predicts-patients-race-from-medical-images-0520).</b>
 
 [Prediction of protein–ligand binding affinity from sequencing data with interpretable machine
