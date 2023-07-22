@@ -42,8 +42,7 @@ learning](https://www.nature.com/articles/s41587-022-01307-0)
 
 <a name="inprep"></a>Working Papers
 ======
-<u>Should I Stop or Should I Go? Early Stopping with Heterogeneous Populations</u>  
-Under Review. [Preprint](https://arxiv.org/abs/2306.11839)  
+[Should I Stop or Should I Go? Early Stopping with Heterogeneous Populations](https://arxiv.org/abs/2306.11839)
 Hammaad Adam, <span style="color:gray">Fan Yin, Mary Hu, Neil Tenenholtz, Lorin Crawford, Lester Mackey, Allison Koenecke.</span>  
 Presented at CoDE@MIT 2022 and IC2S2 2023
 
