@@ -19,7 +19,7 @@ Outside of work, I'm a huge sports fan, and spend a little too much time watchin
 <a name="pubs"></a>Publications
 ======
 [Should I Stop or Should I Go? Early Stopping with Heterogeneous Populations](https://arxiv.org/abs/2306.11839)  
-<i>NeurIPS, 2023</i>. <b>Spotlight Presentation</b> (top ~5\% of submitted papers)
+<i>NeurIPS, 2023</i>. <b>Spotlight Presentation</b> (top ~5\% of submitted papers)  
 Hammaad Adam, <span style="color:gray">Fan Yin, Mary Hu, Neil Tenenholtz, Lorin Crawford, Lester Mackey, Allison Koenecke.</span>  
 Presented at CoDE@MIT 2022 and IC2S2 2023
 
