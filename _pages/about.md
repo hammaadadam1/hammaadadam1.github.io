@@ -47,6 +47,10 @@ learning](https://www.nature.com/articles/s41587-022-01307-0)
 
 <a name="inprep"></a>Working Papers
 ======
+<u>Improving Organ Procurement for Health Equity</u>  
+In preparation. Received MIT Racism Research Award, 2023.  
+Hammaad Adam, <span style="color:gray">Nikhil Agarwal, Marzyeh Ghassemi.</span>  
+
 <u>Fair Organ Allocation Learning</u>  
 In preparation  
 Hammaad Adam, <span style="color:gray">Rene Bermea, Leo Anthony Celi, Marzyeh Ghassemi.</span>  
