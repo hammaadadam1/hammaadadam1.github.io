@@ -52,9 +52,8 @@ In preparation. Received MIT Racism Research Award, 2023.
 Hammaad Adam, <span style="color:gray">Nikhil Agarwal, Marzyeh Ghassemi.</span>  
 
 <u>Fair Organ Allocation Learning</u>  
-In preparation  
+In preparation. Presented at [Jameel Clinical Seminar](https://www.youtube.com/watch?v=dmAg7dBKiyA) (with Marzyeh Ghassemi).  
 Hammaad Adam, <span style="color:gray">Rene Bermea, Leo Anthony Celi, Marzyeh Ghassemi.</span>  
-<u>Talk</u>: [Jameel Clinical Seminar](https://www.youtube.com/watch?v=dmAg7dBKiyA) (with Marzyeh Ghassemi)
 
 <a name="cv"></a>CV
 ======
