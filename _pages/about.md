@@ -24,7 +24,7 @@ Hammaad Adam, <span style="color:gray">Fan Yin, Mary Hu, Neil Tenenholtz, Lorin 
 Presented at CoDE@MIT 2022 and IC2S2 2023
 
 [Machine Learning for Demand Estimation in Long Tail Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3702093)  
-Accepted, <i>Management Science</i>  
+<i>Management Science</i> (forthcoming)  
 Hammaad Adam, <span style="color:gray">Pu He, Fanyin Zheng.</span>  
 <u>Talks</u>: Presented at INFORMS in [2021](files/presentation_informs2021_v2.mp4) and 2020
 
