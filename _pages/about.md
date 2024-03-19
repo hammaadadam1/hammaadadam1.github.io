@@ -19,12 +19,12 @@ Outside of work, I'm a huge sports fan, and spend a little too much time watchin
 <a name="pubs"></a>Publications
 ======
 [Should I Stop or Should I Go? Early Stopping with Heterogeneous Populations](https://arxiv.org/abs/2306.11839)  
-<i>NeurIPS, 2023</i>. <b>Spotlight Presentation</b> (top ~5\% of submitted papers)  
+<i>NeurIPS, 2023</i>. <b>Spotlight Presentation</b> (top ~3% of submitted papers)  
 Hammaad Adam, <span style="color:gray">Fan Yin, Mary Hu, Neil Tenenholtz, Lorin Crawford, Lester Mackey, Allison Koenecke.</span>  
-Presented at CoDE@MIT 2022 and IC2S2 2023
+Presented at CoDE@MIT 2023 and IC2S2 2023
 
-[Machine Learning for Demand Estimation in Long Tail Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3702093)  
-<i>Management Science</i> (forthcoming)  
+[Machine Learning for Demand Estimation in Long Tail Markets](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2023.4893)  
+<i>Management Science, 2023</i> 
 Hammaad Adam, <span style="color:gray">Pu He, Fanyin Zheng.</span>  
 <u>Talks</u>: Presented at INFORMS in [2021](files/presentation_informs2021_v2.mp4) and 2020
 
