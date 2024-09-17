@@ -10,7 +10,7 @@ redirect_from:
 
 About Me
 ======
-I am a third year PhD student at the MIT [Institute for Data Systems and Society (IDSS)](https://idss.mit.edu/academics/ses_doc/), co-advised by [Marzyeh Ghassemi](https://healthyml.org/marzyeh/) and [Nikhil Agarwal](https://economics.mit.edu/people/faculty/nikhil-agarwal). Broadly, my research focuses on questions at the intersection of machine learning, healthcare, and inequity. My current work is driven by two goals: identifying racial and other disparities in healthcare using statistical and causal inference, and investigating novel ways to use machine learning to create more equitable systems. 
+I am a fifth year PhD student at the MIT [Institute for Data Systems and Society (IDSS)](https://idss.mit.edu/academics/ses_doc/), co-advised by [Marzyeh Ghassemi](https://healthyml.org/marzyeh/) and [Nikhil Agarwal](https://economics.mit.edu/people/faculty/nikhil-agarwal). Broadly, my research focuses on questions at the intersection of machine learning, healthcare, and inequity. My current work is driven by two goals: identifying racial and other disparities in healthcare using statistical and causal inference, and investigating novel ways to use machine learning to create more equitable systems. 
 
 I interned at Microsoft Research New England in Summer 2022, hosted by [Allison Koenecke](https://koenecke.infosci.cornell.edu/) and [Lester Mackey](https://web.stanford.edu/~lmackey/). Prior to starting my PhD at MIT, I earned a Bachelor's in Applied Mathematics at Yale and a Master's in Data Science at Columbia. I also spent two years working in strategy consulting at [Altman Vilandrie & Company](https://www.altmansolon.com/).
 
@@ -18,6 +18,10 @@ Outside of work, I'm a huge sports fan, and spend a little too much time watchin
 
 <a name="pubs"></a>Publications
 ======
+<ins>Clinical Information Extraction with Large Language Models: A Case Study on Organ Procurement</ins>  
+<i>AMIA, 2024</i>.  
+Hammaad Adam, <span style="color:gray"> Junjing Lin, Jianchang Lin, Hillary Keenan, Ashia Wilson, Marzyeh Ghassemi.</span>  
+
 [Should I Stop or Should I Go? Early Stopping with Heterogeneous Populations](https://arxiv.org/abs/2306.11839)  
 <i>NeurIPS, 2023</i>. <b>Spotlight Presentation</b> (top ~3% of submitted papers)  
 Hammaad Adam, <span style="color:gray">Fan Yin, Mary Hu, Neil Tenenholtz, Lorin Crawford, Lester Mackey, Allison Koenecke.</span>  
@@ -57,6 +61,6 @@ Hammaad Adam, <span style="color:gray">Rene Bermea, Leo Anthony Celi, Marzyeh Gh
 
 <a name="cv"></a>CV
 ======
-[Curriculum Vitae](/files/Resume_Hammaad_Adam_CV.pdf) (updated 11/2023)
+[Curriculum Vitae](/files/Resume_Hammaad_Adam_CV.pdf) (updated 9/2024)
 
 
