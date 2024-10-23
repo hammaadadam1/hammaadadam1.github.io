@@ -10,15 +10,29 @@ redirect_from:
 
 About Me
 ======
-I am a fifth year PhD student at the MIT [Institute for Data Systems and Society (IDSS)](https://idss.mit.edu/academics/ses_doc/), co-advised by [Marzyeh Ghassemi](https://healthyml.org/marzyeh/) and [Nikhil Agarwal](https://economics.mit.edu/people/faculty/nikhil-agarwal). Broadly, my research focuses on questions at the intersection of machine learning, healthcare, and inequity. My current work is driven by two goals: identifying racial and other disparities in healthcare using statistical and causal inference, and investigating novel ways to use machine learning to create more equitable systems. 
+I am a final year PhD student at the MIT [Institute for Data Systems and Society (IDSS)](https://idss.mit.edu/academics/ses_doc/), co-advised by [Marzyeh Ghassemi](https://healthyml.org/marzyeh/) and [Nikhil Agarwal](https://economics.mit.edu/people/faculty/nikhil-agarwal). Broadly, I am passionate about developing data-driven methods to improve health equity. My recent work primarily pursues this goal in the context of randomized experimentation, studying the design, execution, and analysis of clinical trials with heterogeneous populations. While my research has largely focused on healthcare, I am increasingly interested in digital experimentation and A/B testing for online platforms.
 
-I interned at Microsoft Research New England in Summer 2022, hosted by [Allison Koenecke](https://koenecke.infosci.cornell.edu/) and [Lester Mackey](https://web.stanford.edu/~lmackey/). Prior to starting my PhD at MIT, I earned a Bachelor's in Applied Mathematics at Yale and a Master's in Data Science at Columbia. I also spent two years working in strategy consulting at [Altman Vilandrie & Company](https://www.altmansolon.com/).
+I interned at Amazon in Summer 2024, developing novel methods to detect heterogeneity in A/B tests for Amazon's internal experimentation platform (Weblab). I also previously interned at Microsoft Research New England (Summer 2022), hosted by [Allison Koenecke](https://koenecke.infosci.cornell.edu/) and [Lester Mackey](https://web.stanford.edu/~lmackey/). Prior to starting my PhD at MIT, I earned a Bachelor's in Applied Mathematics at Yale and a Master's in Data Science at Columbia. I also spent two years working in strategy consulting at [Altman Vilandrie & Company](https://www.altmansolon.com/).
 
 Outside of work, I'm a huge sports fan, and spend a little too much time watching Liverpool FC and the Boston Celtics. I've also recently fallen in love with [curling](https://www.youtube.com/watch?v=Rsk30PQK8R0), the perfect way to get through the Boston winter.
 
+<a name="inprep"></a>Working Papers
+======
+**Scalable Heterogeneity Detection in Online Experiments**  
+Presented at [<i>CODE 2024</i>](https://ide.mit.edu/events/code24/)  
+Hammaad Adam, <span style="color:gray">Merlin Heidemanns, Doug Hains, James McQueen.</span>
+
+**Data-Driven Recruitment for Generalizable Experiments**  
+Presented at [<i>CODE 2024</i>](https://ide.mit.edu/events/code24/)  
+Hammaad Adam, <span style="color:gray">Lars Hulstaert, Yu Mao, Hans Verstraete, Marzyeh Ghassemi.</span>
+
+**Improving Organ Procurement for Health Equity**  
+In preparation. Received MIT Racism Research Award, 2023.  
+Hammaad Adam, <span style="color:gray">Nikhil Agarwal, Marzyeh Ghassemi.</span>  
+
 <a name="pubs"></a>Publications
 ======
-<ins>Clinical Information Extraction with Large Language Models: A Case Study on Organ Procurement</ins>  
+**Clinical Information Extraction with Large Language Models: A Case Study on Organ Procurement**  
 <i>AMIA, 2024</i>.  
 Hammaad Adam, <span style="color:gray"> Junjing Lin, Jianchang Lin, Hillary Keenan, Ashia Wilson, Marzyeh Ghassemi.</span>  
 
@@ -48,16 +62,6 @@ Hammaad Adam, <span style="color:gray">Ming Ying Yang, Kenrick Cato, Ioana Baldi
 learning](https://www.nature.com/articles/s41587-022-01307-0)  
 <i>Nature Biotechnology, 2022</i>  
 <span style="color:gray">H Tomas Rube, Chaitanya Rastogi, Siqian Feng, Judith F Kribelbauer, Allyson Li, Basheer Becerra, Lucas AN Melo, Bach Viet Do, Xiaoting Li, </span> Hammaad Adam<span style="color:gray">, Neel H Shah, Richard S Mann, Harmen J Bussemaker.</span>
-
-<a name="inprep"></a>Working Papers
-======
-<u>Improving Organ Procurement for Health Equity</u>  
-In preparation. Received MIT Racism Research Award, 2023.  
-Hammaad Adam, <span style="color:gray">Nikhil Agarwal, Marzyeh Ghassemi.</span>  
-
-<u>Fair Organ Allocation Learning</u>  
-In preparation. Presented at [Jameel Clinical Seminar](https://www.youtube.com/watch?v=dmAg7dBKiyA) (with Marzyeh Ghassemi).  
-Hammaad Adam, <span style="color:gray">Rene Bermea, Leo Anthony Celi, Marzyeh Ghassemi.</span>  
 
 <a name="cv"></a>CV
 ======
