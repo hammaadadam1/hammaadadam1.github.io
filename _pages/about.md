@@ -32,6 +32,10 @@ Hammaad Adam, <span style="color:gray">Nikhil Agarwal, Marzyeh Ghassemi.</span>
 
 <a name="pubs"></a>Publications
 ======
+[Lost in Transplantation: Characterizing Racial Gaps in Physician Organ Offer Acceptance](https://www.medrxiv.org/content/10.1101/2024.07.14.24310395v2)  
+<i>FAccT, 2025</i>.  
+Hammaad Adam, <span style="color:gray">Rene S Bermea, Ming Ying Yang, Leo Anthony Celi, Marzyeh Ghassemi.</span>  
+
 **Clinical Information Extraction with Large Language Models: A Case Study on Organ Procurement**  
 <i>AMIA, 2024</i>.  
 Hammaad Adam, <span style="color:gray"> Junjing Lin, Jianchang Lin, Hillary Keenan, Ashia Wilson, Marzyeh Ghassemi.</span>  
